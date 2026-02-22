@@ -24,3 +24,6 @@ public class IterativeFactorial {
     }
 
 }
+
+//Iterative Factorial is better than the Recursive one
+//due to space complexity it having O(i) and recursive having O(n) due to function calling itself leading stack to fill n times
